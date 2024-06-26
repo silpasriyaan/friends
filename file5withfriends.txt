@@ -1,1 +1,2 @@
-this is our new file under subbranch1
+this is our new  file under subbranch1
+Its our first edit to new file under subbranch1
